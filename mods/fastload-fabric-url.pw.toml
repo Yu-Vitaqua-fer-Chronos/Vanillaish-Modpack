@@ -1,0 +1,7 @@
+name = "fastload-fabric-url"
+filename = "Fastload+1.18.2-1.20-3.4.0.jar"
+
+[download]
+url = "https://cdn.modrinth.com/data/kCpssoSb/versions/ys9T20o4/Fastload%2B1.18.2-1.20-3.4.0.jar"
+hash-format = "sha256"
+hash = "e13ab713f9779623de29bb50396b3202d670532bd4605f74c907d4f7834c1637"

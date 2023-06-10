@@ -1,0 +1,16 @@
+name = "Vanillaish"
+author = "Chronos"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9c1834e335f005189f4798fc8593c11bb0d3935e445e84f8401c8ec536c8db60"
+
+[versions]
+minecraft = "1.20"
+quilt = "0.19.0-beta.18"
+
+[options]
+acceptable-game-versions = ["1.20"]

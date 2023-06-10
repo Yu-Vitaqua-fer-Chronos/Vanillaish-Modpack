@@ -1,0 +1,36 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "fe2fce2919a781b1ff2b27dfaabddf030dd9bb61d27a7df1f954e4a9ee440bf9"
+metafile = true
+
+[[files]]
+file = "mods/fastload-fabric-url.pw.toml"
+hash = "de975cee9fd5f1220352fa3fe8c0b92d37e5ed1e35f0bb9cb35702504938e048"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "7a8d5e151619f34a346e505a601bb1d0f86c4f371aac533c50d9792c6d63a363"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "77fb235736e2876ad3329aaf377b57f367808988d01ef661caf338b5817a431e"
+metafile = true
