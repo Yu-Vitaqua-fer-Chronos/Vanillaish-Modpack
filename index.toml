@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "index.html"
+hash = "6d19bfd4d8659d6013bdcfbbc7105d660abfc5e2f643cc060184fd642fd33e68"
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "fe2fce2919a781b1ff2b27dfaabddf030dd9bb61d27a7df1f954e4a9ee440bf9"
 metafile = true
