@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "1_20.jar"
+hash = "ff41c542cec182ce74508a5e42194e0f4009341de75f0a7bf770d18cf701d56b"
+
+[[files]]
 file = "index.html"
 hash = "6d19bfd4d8659d6013bdcfbbc7105d660abfc5e2f643cc060184fd642fd33e68"
 
@@ -17,11 +21,6 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
