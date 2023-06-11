@@ -24,11 +24,6 @@ hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
 metafile = true
 
 [[files]]
-file = "mods/floodgate.pw.toml"
-hash = "1bc4e569529b7a1e0607e12ddd9b29ab06f2a2f8cc866b115447caa4f64f8e25"
-metafile = true
-
-[[files]]
 file = "mods/journeymap.pw.toml"
 hash = "b5a80beb6c7d1ea261fdfc4d2c4f31377f630381d43fd2caa6edf9e5d46c0173"
 metafile = true
