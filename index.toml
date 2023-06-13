@@ -49,6 +49,11 @@ hash = "7a8d5e151619f34a346e505a601bb1d0f86c4f371aac533c50d9792c6d63a363"
 metafile = true
 
 [[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "d881b77b7acaaa149d385bbfe00f95135add06d8153a76e569a119fbc33e4d25"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "77fb235736e2876ad3329aaf377b57f367808988d01ef661caf338b5817a431e"
 metafile = true
