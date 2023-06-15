@@ -9,6 +9,11 @@ file = "index.html"
 hash = "6d19bfd4d8659d6013bdcfbbc7105d660abfc5e2f643cc060184fd642fd33e68"
 
 [[files]]
+file = "mods/fabricautocrafter.pw.toml"
+hash = "8fa07baaeaf595dd773b52975308f640172347fd98507063a81ce0d598c7e694"
+metafile = true
+
+[[files]]
 file = "mods/fastload-fabric-url.pw.toml"
 hash = "de975cee9fd5f1220352fa3fe8c0b92d37e5ed1e35f0bb9cb35702504938e048"
 metafile = true
@@ -20,12 +25,12 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "b5a80beb6c7d1ea261fdfc4d2c4f31377f630381d43fd2caa6edf9e5d46c0173"
+hash = "af49ad1f36fb92873b79e504092147d7073e433685ff2e3353003363ffd04e7c"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "6c681a60f617657bb819dae03d180a92a513908705518480391dfd55783b457a"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
@@ -34,18 +39,23 @@ hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
+file = "mods/polymer.pw.toml"
+hash = "c5d82156a50bd47e31f7b96ea18fe9e7af842c748c057839feaa5e89c108c4f4"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
-hash = "21e92010a664ed7c9f4b9d84e48b2e85903dd28049dbebbeb52aad03942f159a"
+hash = "ce669023c4265f3a377fb8d18d461b1b6e9218e90bf61f2c917b718d5ad55b02"
 metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "5f45c21d5909383abd26551620a6bfa35dcf264e1ec5a3121b08596d9924cbbc"
+hash = "6c1fe3e32da272bb973fe9e0c0e2a0449dbb3561569c79cccb84f888ece74ce7"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "7a8d5e151619f34a346e505a601bb1d0f86c4f371aac533c50d9792c6d63a363"
+hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
 metafile = true
 
 [[files]]
@@ -55,5 +65,5 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "77fb235736e2876ad3329aaf377b57f367808988d01ef661caf338b5817a431e"
+hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
 metafile = true
