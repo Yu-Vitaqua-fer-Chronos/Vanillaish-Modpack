@@ -25,7 +25,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "af49ad1f36fb92873b79e504092147d7073e433685ff2e3353003363ffd04e7c"
+hash = "7e4f75370782118422e5f06cffb06c0c6da097434d5d90f3c53f6280b5ae89c8"
 metafile = true
 
 [[files]]
@@ -40,22 +40,32 @@ metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-hash = "c5d82156a50bd47e31f7b96ea18fe9e7af842c748c057839feaa5e89c108c4f4"
+hash = "a66b5bf9aa0c5b6fd2efefe9919a4347f84fb015269859da7abe90dcf5eedafc"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "ce669023c4265f3a377fb8d18d461b1b6e9218e90bf61f2c917b718d5ad55b02"
+hash = "3f36737e564906049beb87529db19a44126c2a7717f1b112fc326229295e62d1"
 metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "6c1fe3e32da272bb973fe9e0c0e2a0449dbb3561569c79cccb84f888ece74ce7"
+hash = "e01e749bc9136bf07c90a76c3eaff99c3be2469f37045b8920eb1632eb057720"
 metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "b5a0689c8ca4d98adb7dfe35df4bc6a1dceac5c4b792e5fbb0ad5290991e2684"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "86d513a60a1722cb8331e23c2946ef018fe3c2ecaa94cdf4af5af45d0620820a"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
 metafile = true
 
 [[files]]
